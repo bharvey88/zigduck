@@ -22,7 +22,7 @@
 
 
 <br>
-<a href="https://htmlpreview.github.io/?https://github.com/quackhack-mcblindy/zigduck/blob/main/docs/index.html">🦆 Zigduck Wiki</a>.
+<a href="https://bharvey88.github.io/zigduck/">🦆 Zigduck Wiki</a>.
 <br>
 
 # **A Flake For Your House**
@@ -134,7 +134,7 @@ Includes a <a href="images/screenshot02.png">GNOME Shell extension</a> for a han
 
 ## **Configuration**
 
-See all options in the <a href="https://htmlpreview.github.io/?https://github.com/quackhack-mcblindy/zigduck/blob/main/docs/index.html">🦆 Zigduck Wiki</a>.
+See all options in the <a href="https://bharvey88.github.io/zigduck/reference/options/">🦆 Zigduck Wiki</a>.
 <br>
 
 <details><summary><strong>
